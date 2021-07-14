@@ -1,0 +1,2 @@
+					Module 8
+Write a code to track the pedestrian in a video. Use haar cascade pretrained model to achieve the same.
